@@ -1,0 +1,2 @@
+.git/objects/fe/ba548feff187990cea3a1a14e740fde59829e6 filter=lfs diff=lfs merge=lfs -text
+cloth_segm.pth filter=lfs diff=lfs merge=lfs -text
