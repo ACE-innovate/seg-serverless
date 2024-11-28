@@ -6,4 +6,4 @@ echo "Starting segmentation server (8083)..."
 echo "Starting Runpod handler..."
 (bash -c "python3 /handler.py > /handler.log") &&
 
-tail -f /seg.log 
+exit 0   # Success 

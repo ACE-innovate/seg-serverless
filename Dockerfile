@@ -17,5 +17,3 @@ COPY ./handler.py /handler.py
 EXPOSE 8083
 
 CMD ["bash", "-c", "/start.sh"]
-
- 
